@@ -1,0 +1,27 @@
+How does ethics, reduction of bias, and peer review would relate to research that only has a single participant?
+
+Ethics:
+
+- Just because my research only involves myself, my ethics could potentially not line up with the ethics upheld by field of Biology.
+- To ensure that I am not willing to go beyond what is ethical just to obtain data.
+- It is important that safety is adhered to at all costs.
+     One example of this would be if one of the parameters that I set for myself was to see how much swelling I could get out of my knee in an hour period. In other words, I would agitate my knee through physical activity as hard as I could to record the most swelling in a single hour or the all-time largest swelling recorded. Although I am in pain, I would continue through the hour and then record my results.
+     - This example would not be ethical due to the deliberate cause of pain to the point of physical swelling of my knee. It goes against one of the very rules I set for myself "I will stop physical activity, elevate my leg, and ice my knee if my pain level pushes to a 5/10 on the pain scale.", and I feel this rule would be justified as ethically sound.
+
+Reduction of Bias:
+
+- What bias did I face in my UI/UX design?
+     Selection bias: Target audience was all dog owners, which excluded potential or former dog owners.
+     My partner had reporting bias: 3 of 4 participants got stuck on certain pages, but my partner only reported the one user who was able to remember how to refresh the page and did not get stuck.
+
+- What bias can I see in my data collection now?
+     Observer bias: I have been so focused on what makes my knee swell that I have not annotated what helps reduce the swelling.
+     Confirmation bias: This pays into my previous bias because I hypothesised that the totality of my PT and personal exercise would make my knee swell and that is all my research confirms so far. When I know that icing, stretching, acupuncture, massage, and topicals have all helped in the reduction of swelling over the coruse of my data collection. This could lead to recall bias if I were to begin recording these parameters and then speculate an average the reduction of swelling occured based on when and how long I did these "inflamation reduction methods"
+
+Peer review:
+
+- This was the topic that I felt is relevant in all research because if my data collection was not peer reviewed, this whole research project was a "one man show", and I could have published whatever I felt like publishing. This could be extremely damaging because I just came up with multiple biases withing my research that I was not aware of before, and I was confident in my work until now.
+
+- Peer review is vital to ensure that my research is thoroughly inspected from multiple perspectives to ensure this data adheres to relative ethics and that it is not full of bias or manipulated data.
+
+- There is no case that a scientific or professional publication should be published without peer review.SSS
